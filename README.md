@@ -1,8 +1,5 @@
-
----
-
 # 📝 Note Taker
-
+---
 ## 📖 About the Project
 **Note Taker** is a simple web-based application that allows users to create, edit, delete, and view notes. It is built using **Hibernate, JSP, Servlets, Bootstrap, MySQL, and Maven**.
 
