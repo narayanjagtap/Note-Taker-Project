@@ -61,7 +61,7 @@ Ensure you have the following installed on your system:
 ## 📸 Screenshots
 | Home Page | Add Note | Show Notes | Edit Note |
 |-----------|---------|------------|-----------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Show](screenshots/show.png) | ![Edit](screenshots/edit.png) |
+| ![Home](Home.png) | ![Add](Add.png) | ![Show](Show.png) | ![Edit](Edit.png) |
 
 ---
 
